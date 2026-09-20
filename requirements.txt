@@ -13,3 +13,4 @@ plotly
 geopandas
 folium
 streamlit-folium
+scikit_posthocs
