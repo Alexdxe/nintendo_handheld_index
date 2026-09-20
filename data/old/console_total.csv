@@ -1,0 +1,78 @@
+Console,Model,Region,Total Sales
+GB,All,Japan,32470000
+GB,All,United States,44060000
+GB,All,Other,42160000
+GB,All,Total,118690000
+GBA,All,Japan,16960000
+GBA,All,United States,41640000
+GBA,All,Other,22910000
+GBA,All,Total,81510000
+GBA,SP,Japan,6510000
+GBA,SP,United States,24000000
+GBA,SP,Other,13050000
+GBA,SP,Total,43570000
+DS,All,Japan,32990000
+DS,All,United States,59930000
+DS,All,Other,61100000
+DS,All,Total,154020000
+DS,Lite,Japan,18200000
+DS,Lite,United States,36440000
+DS,Lite,Other,39220000
+DS,Lite,Total,93860000
+DS,DSi,Japan,5900000
+DS,DSi,United States,12350000
+DS,DSi,Other,10190000
+DS,DSi,Total,28440000
+DS,DSi XL,Japan,2350000
+DS,DSi XL,United States,5850000
+DS,DSi XL,Other,4740000
+DS,DSi XL,Total,12930000
+3DS,All,Japan,25260000
+3DS,All,United States,26900000
+3DS,All,Other,23780000
+3DS,All,Total,75940000
+3DS,XL,Japan,7040000
+3DS,XL,United States,6630000
+3DS,XL,Other,5970000
+3DS,XL,Total,19640000
+3DS,2DS,Japan,650000
+3DS,2DS,United States,4820000
+3DS,2DS,Other,5020000
+3DS,2DS,Total,10500000
+3DS,New 3DS,Japan,1170000
+3DS,New 3DS,United States,500000
+3DS,New 3DS,Other,830000
+3DS,New 3DS,Total,2500000
+3DS,New 3DS XL,Japan,4930000
+3DS,New 3DS XL,United States,4400000
+3DS,New 3DS XL,Other,2920000
+3DS,New 3DS XL,Total,12260000
+3DS,2DS XL,Japan,1240000
+3DS,2DS XL,United States,1830000
+3DS,2DS XL,Other,1730000
+3DS,2DS XL,Total,4800000
+Switch,All,Japan,38340000
+Switch,All,United States,59610000
+Switch,All,Europe,40030000
+Switch,All,Other,17940000
+Switch,All,Total,155920000
+Switch,Original,Japan,21100000
+Switch,Original,United States,38370000
+Switch,Original,Europe,26910000
+Switch,Original,Other,11210000
+Switch,Original,Total,97590000
+Switch,OLED,Japan,10010000
+Switch,OLED,United States,9480000
+Switch,OLED,Europe,7310000
+Switch,OLED,Other,5100000
+Switch,OLED,Total,31910000
+Switch,Lite,Japan,7230000
+Switch,Lite,United States,11750000
+Switch,Lite,Europe,5810000
+Switch,Lite,Other,1640000
+Switch,Lite,Total,26430000
+Switch 2,All,Japan,5660000
+Switch 2,All,United States,6730000
+Switch 2,All,Europe,4400000
+Switch 2,All,Other,3060000
+Switch 2,All,Total,19860000
