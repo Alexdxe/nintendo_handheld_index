@@ -605,7 +605,7 @@ with st.container(border=True):
         markers = True,
         template = 'plotly_white',
         color_discrete_map={
-            'Total': '#E7E7E7',  
+            'Total': '#222222',  
             'Japan': '#BC002D',
             'United States': '#0A3161',
             'Other' : '#006400'
