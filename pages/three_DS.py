@@ -574,7 +574,7 @@ with st.container(border=True):
         
         # Title font settings
         title=dict(
-            text='Nintendo 3DS Games by Release Year (of Top 250):',
+            text='Nintendo 3DS Games by Release Year (of Top 250 Best Selling):',
             font=dict(size=25, color='white')
         ),
         
@@ -605,7 +605,7 @@ with st.container(border=True):
         markers = True,
         template = 'plotly_white',
         color_discrete_map={
-            'Total': '#222222',  
+            'Total': '#28282B',  
             'Japan': '#BC002D',
             'United States': '#0A3161',
             'Other' : '#006400'
@@ -672,7 +672,7 @@ with st.container(border=True):
 
     st.markdown("<h6 style='text-align: center;'> <i>Image of All 3DS Consoles</i></h6>", unsafe_allow_html=True)
 
-    st.markdown("Because this variety, I wanted to explore <strong>which models can be considered successes through recording various measures related to the success of a console.</strong>", unsafe_allow_html=True)
+    st.markdown("Because of this variety, I wanted to explore <strong>which models can be considered successes through recording various measures related to the success of a console.</strong>", unsafe_allow_html=True)
 
     with st.expander("**The Nerdy stuff**"):
         st.markdown("We will be running the <strong>K-Means Clustering algorithm to group the 3DS consoles based on their sales performance and features</strong>. By categorizing the consoles into distinct groups, we can better understand a variant's similarities and differences." \

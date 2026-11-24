@@ -541,7 +541,7 @@ with st.container(border=True):
             GBA_year_counts,
             x = 'Release Date',
             y = 'Game Count',
-            title = 'GBA Games by Release Year (of Top 250): ',
+            title = 'GBA Games by Release Year (of Top 250 Best Selling): ',
             markers = True,
             template = 'ggplot2',
             color_discrete_sequence = ['#485CC7']

@@ -349,7 +349,7 @@ with left:
     "The console was larger, had vastly more processing power, and felt more premium. It also featured new unique ideas, such as mouse mode and video chat. While not as groundbreaking as the original Switch, " \
     "the main feature consumers wanted was more power, which the Switch more than delivered.", unsafe_allow_html=True)
     
-    st.markdown("Roughly 10x faster than the original, the Switch 2 was a massive upgrade. Although not as powerful as other home consoles, the Switch 2 still offers enough power to run most games competently. " \
+    st.markdown("Roughly 2x more powerful than the original, the Switch 2 was a massive upgrade. Although not as powerful as other home consoles, the Switch 2 still offers enough power to run most games competently. " \
         "In fact, for the first time, it seems that many developers are releasing games across all three platforms (" \
         '<a href="https://xbox.fandom.com/wiki/Xbox_Series_X" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Xbox Series X</strong></a>, '
         '<a href="https://playstation.fandom.com/wiki/PlayStation_5" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>PS5</strong></a>, '

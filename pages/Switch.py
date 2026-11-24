@@ -294,7 +294,7 @@ input, textarea, div[data-baseweb="select"] * {
 
 /* 4. BACKGROUND COLORS */
 .stApp {
-    background-color: #850000 !important;
+    background-color: #D94446 !important;
     color: #0D0D0D !important;
 }
 
@@ -349,12 +349,12 @@ with left:
     st.markdown("The Nintendo Switch is a hybrid console, meaning it could be played both on a TV (docked, through HDMI) or handheld. While the concept was intriguing, some were skeptical. " \
     "The "
     '<a href="https://nintendo.fandom.com/wiki/Wii_U" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Wii U</strong></a> '
-    " is Nintendo’s worst-selling console, as confusion around its gimmick and marketing left many questioning it's identity. However, when the Switch launched, it received universal acclaim. " \
-    "Its innovative design, projected first-party games, and processing power led the Switch to sell out at many locations during its launch.", unsafe_allow_html=True)
+    " is Nintendo’s worst-selling console, as confusion around its gimmick and marketing left many questioning it's identity. However, when the Switch released, it was met with universal acclaim. " \
+    "Its innovative design, projected first-party games, and processing power led the console to sell out at many locations during its launch.", unsafe_allow_html=True)
     
     st.markdown("Being faster than the Wii U, it ran many home-console exclusives that previous handhelds could only dream of. Most notably, " \
-       '<a href="https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>The Legend of Zelda: Breath of the Wild</strong></a> '   
-       "The game showcased a vast, in-depth open world which players could sink hundreds of hours into exploring. Having an experience this large on a device so small was shocking, "
+       '<a href="https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>The Legend of Zelda: Breath of the Wild</strong></a>'   
+       ". The game showcased a vast, in-depth open world which players could sink hundreds of hours into exploring. Having an experience this large on a device so small was shocking, "
        "and (alongside other titles) convinced many to pick up the console. ", unsafe_allow_html=True)
    
     st.markdown("Today, the Nintendo Switch is not only Nintendo’s best-selling console, but is projected to outsell the  "
@@ -548,7 +548,7 @@ with st.container(border=True):
             switch_year_counts,
             x = 'Release Date',
             y = 'Game Count',
-            title = 'Switch Games by Release Year:',
+            title = 'Switch Games by Release Year (of Top 250 Best Selling):',
             markers = True,
             template = 'seaborn',
             color_discrete_sequence = ['#0AB9E6']

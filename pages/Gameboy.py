@@ -382,7 +382,7 @@ with st.container(border=True):
      is not a Nintendo owned intellectual property.
     </h5>""", unsafe_allow_html=True)
     st.markdown("""<h5 style='text-align: center;'> 
-    5. The hanheld infamously survived a
+    5. The handheld infamously survived a
     <a href="https://www.esquire.com/lifestyle/a27183316/nintendo-game-boy-survived-gulf-war/" target="_blank" style="color: #a91101; text-decoration: none;">bomb blast</a>
     during a Gulf War barracks bombing.
     </h5>""", unsafe_allow_html=True)

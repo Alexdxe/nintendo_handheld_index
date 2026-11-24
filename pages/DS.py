@@ -562,7 +562,7 @@ with st.container(border=True):
             DS_year_counts,
             x = 'Release Date',
             y = 'Game Count',
-            title = 'DS Games by Release Year:',
+            title = 'DS Games by Release Year (of Top 250 Best Selling):',
             markers = True,
             template = 'plotly_white',
             color_discrete_sequence = ['#A8A9AD']
