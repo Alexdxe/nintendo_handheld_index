@@ -99,22 +99,21 @@ with st.container(border=True):
     st.markdown("<h3 style='text-align: center;'><u>Description</u></h3>", unsafe_allow_html=True)
     st.write("")
     st.markdown("<strong>Gaming is one of the most popular and influential mediums in the world.</strong> " \
-    "It’s a unique form of media that immerses users through interactive challenges and combines various other art forms (music, cinematography, etc) " \
-    "to craft a one-of-a-kind experience. From hardcore games such as " \
+    "It’s a unique art form that blends interactive challenges, storytelling, and other media (music, cinematography, etc.) to create a one-of-a-kind experience users could only dream of ~80 years ago. " \
+    "From hardcore games such as " \
     '<a href="https://en.wikipedia.org/wiki/Dark_Souls" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Dark Souls</strong></a>, '
     " to casual experiences like " \
     '<a href="https://pokemongo.fandom.com/wiki/Pok%C3%A9mon_GO" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Pokémon Go</strong></a> '
-    ", everyone has once been addicted to a video game. " \
-    "However, although people's passions for gaming differ, one thing remains consistent: <strong>almost everyone can share an experience with a Nintendo console.</strong> ", unsafe_allow_html=True)
+    ", everyone has been addicted to a video game. " \
+    "Although people's passions for gaming differ, one thing remains consistent among most: <strong> an experience with a Nintendo console.</strong> ", unsafe_allow_html=True)
 
     st.markdown("With over 800 million consoles sold worldwide and a dozen famous franchises, <strong>Nintendo is gaming's most iconic company.</strong> " \
-    "Most notably, Nintendo has always been the flag bearer for handheld gaming, a market aiming to bring larger-than-life experiences on the go. " \
+    "Most notably, the company has been the flag bearer for handheld gaming ever since it was invented. " \
     "With iconic devices such as the Game Boy, DS, and Switch, <strong>Nintendo’s passion bleeds through these pieces of hardware</strong>, " \
     "illustrating why people love collecting these handhelds.", unsafe_allow_html=True)
 
-    st.markdown("<strong>This project aims to analyze the rich history of Nintendo’s handhelds, observing sales numbers, "
-    "iconic games, and answering hypotheses using various statistical methods. <strong>The goal is to learn more about Nintendo through the lens of " \
-    "a Data Scientist.</strong>", unsafe_allow_html=True)
+    st.markdown("<strong>With such an illustrious history, this project aims to analyze Nintendo’s handhelds by observing the company’s sales numbers, iconic games, "
+    "and testing hypotheses using various statistical methods. The goal is to learn more about Nintendo through the lens of a Data Scientist.</strong>", unsafe_allow_html=True)
  
     #Photo of Consoles: 
     photo = Image.open("photos/n_handhelds.jpg")
@@ -168,10 +167,9 @@ with st.container(border=True):
 
 
     st.write("")
-    st.markdown("While there a few consoles missing (" \
-    '<a href="https://game-watch.fandom.com/wiki/Game_and_Watch_Wiki" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Game and Watch</strong></a>'
-    ") and information for some scarce (Game Boy and Switch 2), this is mostly due to the difficulties of finding/sourcing the data." \
-    " Therefore, for these reasons:", unsafe_allow_html=True)
+    st.markdown("Because there is little to no sales data related to the " \
+    '<a href="https://game-watch.fandom.com/wiki/Game_and_Watch_Wiki" target="_blank" style="color: #1D1D1D; text-decoration: none;"><strong>Game & Watch</strong></a>'
+    ", and information for some consoles is scarce (Game Boy and Switch 2), the following decisions were made:", unsafe_allow_html=True)
 
     st.markdown("""
     <h6 style='text-align: center; line-height: 1.75;'>
@@ -190,9 +188,9 @@ with st.expander("**Personal Attachment**"):
     st.markdown("""I am a massive Nintendo fan. <strong>From the day I received a DS for Christmas in 2010 to buying my first-ever console (Switch 2) in 2026, it’s been a company I have loved throughout my life.</strong>
     """,unsafe_allow_html=True)
 
-    st.markdown("""It’s a company that has given me so many memorable moments and brought me endless joy while blasting through their iconic library. A company with a rich (and interesting) history full of unique trials and triumphs
-        that has shaped the gaming industry into what it is today. A company with a litany of problems and annoying quirks that many roll their eyes at in frustration, but that clearly define who Nintendo is at its core. It’s a company
-        that is as interesting as it is controversial, but I cannot ignore the feeling that whenever I play one of Nintendo’s finest games, I lose myself in the medium like no other.""")
+    st.markdown("""With an iconic library and unforgettable characters, Nintendo has brought me so many memories. It's a company with a rich (and interesting) history full of unique trials and triumphs
+        that has shaped the gaming industry into what it is today. A company with a litany of problems and annoying quirks that many roll their eyes at in frustration, but define Nintendo's very identity. It’s a company
+        that is as interesting as it is controversial, but I cannot ignore the feeling that whenever I play one of Nintendo’s finest games, often losing myself in the medium like no other.""")
 
     #Console:
     screen = Image.open("photos/collection.jpg") 
@@ -203,7 +201,7 @@ with st.expander("**Personal Attachment**"):
     st.markdown("<h6 style='text-align: center;'> <i>Image of the Consoles I currently own.</i></h6>", unsafe_allow_html=True)
 
 
-    st.markdown("Given that most of my experience with Nintendo has been through their handheld devices, I wanted to learn about its history through the eyes of a statistician. <strong>I wanted to understand what made a handheld a success, " \
+    st.markdown("Given that most of my experience with Nintendo has been through their handheld devices, I wanted to learn about its history through the eyes of a statistician. <strong>I sought to understand what made a handheld a success, " \
     "analyze sales numbers across all regions, and even predict the sales of both Switch consoles.</strong> It’s this burning passion to both learn about Nintendo through statistical application that birthed this project.",unsafe_allow_html=True)
 
 
