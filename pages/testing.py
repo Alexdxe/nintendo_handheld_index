@@ -479,7 +479,7 @@ with st.container(border=True):
 st.divider()
 
 with st.container(border=True):
-    st.markdown("<h3 style='text-align: center;'>Does Nintendo First-Party Games Sell better Than 3rd-Party Software?:</h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center;'>Does Nintendo First-Party Games Tend to Sell Better than 3rd-Party Software?:</h3>", unsafe_allow_html=True)
     st.markdown("<h5><u>Summary:</u></h5>", unsafe_allow_html=True)
     st.markdown("""When someone buys a Nintendo console, the first few games a user purchases are often first-party titles. Whether it’s the latest 
     <a href="https://en.wikipedia.org/wiki/Mario" target="_blank" style="color: #e7ceb9; text-decoration: none;"><strong>Mario</strong></a>, 
